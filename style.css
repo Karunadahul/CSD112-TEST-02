@@ -51,5 +51,23 @@ body{
     padding: 35px;
 }
 .form{
-    margin-top: 3%;
+    margin-top: 30px;
+}
+.iam{
+    width: 550px;
+    background-color: white;
+    box-shadow: 0 0 20px 0 lightcoral;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.form{
+    margin: 30px;
+    margin-top: 45px;
+
+}
+.input-field{
+    width: 400px;
+    height: 45px;
+    margin-top: 15px;
+    padding-left: 10px;
 }
