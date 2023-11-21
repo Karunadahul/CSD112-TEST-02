@@ -30,6 +30,7 @@ body{
 .row{
     color: white;
     padding: 20px;
+    margin-top: 80px;
 }
 .row h3{
     color: red;
@@ -62,7 +63,7 @@ body{
 }
 .form{
     margin: 30px;
-    margin-top: 45px;
+    
 
 }
 .input-field{
@@ -70,4 +71,13 @@ body{
     height: 45px;
     margin-top: 15px;
     padding-left: 10px;
+}
+.iam form{
+    margin-top: 45px;
+}
+.age{
+    padding: 25px;
+    margin-top: 30px;
+    font-size: large;
+    color: brown;
 }
