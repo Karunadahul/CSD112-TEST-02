@@ -45,7 +45,11 @@ body{
     font-size: 25px;
 }
 .about{
-    color:white;
+    color: aqua;
     font-size: 25px;
     margin-top: 28px;
+    padding: 35px;
+}
+.form{
+    margin-top: 3%;
 }
